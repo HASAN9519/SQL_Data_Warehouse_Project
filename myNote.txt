@@ -1,0 +1,11 @@
+Project Link:   https://datawithbaraa.substack.com/p/build-a-data-warehouse-from-scratch?utm_source=publication-search
+Project Video:  https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLGAk4MuJpU0suV_r_e90kqsNkd-WKr6mC&index=9&t=18s
+Project github repository: https://github.com/DataWithBaraa/sql-data-warehouse-project
+
+
+////////////       I will be using postgres sql 
+
+database naming convention will be snake_case like example customer_info
+
+////////  github initialization 
+
